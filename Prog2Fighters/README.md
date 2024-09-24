@@ -10,11 +10,18 @@
 
 ## 📸 Capturas de Tela
 
-![Menu Principal](caminho/para/imagem_menu.png)
+![Menu Principal](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/menu.png)
 *Menu de seleção de personagens.*
 
-![Personagens no Jogo](caminho/para/imagem_jogo.png)
+![Selecção de Personagens](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/selecao.png)
 *Personagens em combate.*
+
+![Selecção da Arena](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/arena.png)
+*Menu de seleção de arena.*
+
+![Jogo](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/luta.png)
+*Cena de luta entre personagens.*
+
 
 ## 🚀 Como Baixar e Executar
 
@@ -28,3 +35,38 @@
 1. Clone este repositório:
    ```bash
    git clone https://github.com/gg-gustavo/Trabalhos_Faculdade/tree/main/Prog2Fighters.git
+
+2. Acesse o diretório do projeto:
+   ```bash
+   cd prog2-fighters
+
+3. Compile o jogo usando o Makefile:
+   ```bash
+   make
+
+4. Execute o jogo:
+   ```bash
+   ./prog2_fighters
+
+
+
+## 📚 O que Eu Aprendi
+
+Este projeto foi uma ótima oportunidade para aprender sobre:
+
+- **Programação orientada a eventos**: Gerenciamento eficiente de eventos como teclas pressionadas, atualizações de tela e colisões entre personagens.
+- **Biblioteca Allegro5**: Aprendi como usar Allegro para gráficos, imagens, fontes e gerenciamento de eventos.
+- **Estruturas de dados em C**: Organização dos personagens e seus atributos, como vida, velocidade e ataques.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Linguagem**: C
+- **Biblioteca gráfica**: Allegro5
+- **Ferramentas**: GCC, Makefile
+
+## ✉️ Contato
+
+Se tiver dúvidas ou quiser saber mais sobre o projeto, sinta-se à vontade para me contatar:
+
+- **Email**: [ggr20@inf.ufpr.br]
+- **GitHub**: [github.com/gg-gustavo]
