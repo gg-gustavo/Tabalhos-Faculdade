@@ -11,13 +11,13 @@
 ## 📸 Capturas de Tela
 
 ![Menu Principal](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/menu.png)
-*Menu de seleção de personagens.*
+*Menu do Jogo.*
 
 ![Selecção de Personagens](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/selecao.png)
-*Personagens em combate.*
+*Seleção dos personagens*
 
 ![Selecção da Arena](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/arena.png)
-*Menu de seleção de arena.*
+*Seleção de arena.*
 
 ![Jogo](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/luta.png)
 *Cena de luta entre personagens.*
@@ -47,8 +47,6 @@
 4. Execute o jogo:
    ```bash
    ./prog2_fighters
-
-
 
 ## 📚 O que Eu Aprendi
 
