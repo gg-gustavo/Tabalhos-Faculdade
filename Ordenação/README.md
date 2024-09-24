@@ -19,13 +19,13 @@ A eficiência dos algoritmos é fundamental para maximizar o desempenho e minimi
 
 Para uma explicação mais detalhada sobre os algoritmos implementados, benchmarks e resultados, consulte o relatório completo:
 
-- [Relatório do Projeto (PDF)](caminho/)
+- [Relatório do Projeto (PDF)](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Ordena%C3%A7%C3%A3o/outros/Relat%C3%B3rio.pdf)
 
 ## 📊 Benchmarks
 
 Os benchmarks foram executados com o auxílio de um **script em Python** para automatizar as entradas dos usuários e simular grandes volumes de dados.
 
-![Visual Studio Code - Script.py]()
+![Visual Studio Code - Script.py](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Ordena%C3%A7%C3%A3o/outros/script_py.png)
 *Imagem: Visual Studio Code – script.py para emular a entrada do usuário.*
 
 ### Algoritmos Implementados:
@@ -46,24 +46,21 @@ Os benchmarks foram executados com o auxílio de um **script em Python** para au
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/
-
-2. Clone este repositório:
+   git clone https://github.com/gg-gustavo/Trabalhos_Faculdade
+2. Acesse o diretório do projeto:
    ```bash
-   git clone https://github.com
-
-3. Clone este repositório:
+   cd algoritmos-busca-ordenacao
+3. Compile o projeto usando o Makefile:
    ```bash
-   git clone https://github.com
-
-4. Clone este repositório:
+   make
+4. Execute os algoritmos de busca e ordenação:
    ```bash
-   git clone https://github.com
-
-5. Clone este repositório:
+   ./ordenacao
+5. Para rodar o script de benchmarks em Python:
+    - Certifique-se de que o Python esteja instalado e execute o script de testes.
+    - O script deve estar no diretório do projeto e pode ser executado assim:
    ```bash
-   git clone https://github.com/
-
+   python3 script.py
 ## 📚 O que Eu Aprendi
 
 Neste projeto, pude aprender sobre:
@@ -84,5 +81,5 @@ Neste projeto, pude aprender sobre:
 
 Se você tiver dúvidas ou quiser saber mais sobre o projeto, sinta-se à vontade para me contatar:
 
-- **Email**: [Seu email]
-- **GitHub**: [Seu GitHub]
+- **Email**: [ggr20@inf.ufpr.br]
+- **GitHub**: [github.com/gg-gustavo]
