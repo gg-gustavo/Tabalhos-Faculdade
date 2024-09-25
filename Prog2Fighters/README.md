@@ -34,7 +34,7 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/gg-gustavo/Trabalhos_Faculdade/tree/main/Prog2Fighters.git
+   git clone https://github.com/gg-gustavo/Trabalhos_Faculdade
 
 2. Acesse o diretório do projeto:
    ```bash
