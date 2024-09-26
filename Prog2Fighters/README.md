@@ -2,7 +2,7 @@
 
 **Prog2 Fighters** é um jogo de luta simples, desenvolvido como trabalho para a disciplina de **Programação 2**, utilizando a biblioteca Allegro5 e programado em C. Este projeto me ajudou a aprender bastante sobre **programação orientada a eventos**.
 
-## 🎮 Funcionalidades Principais
+## 🎲 Funcionalidades Principais
 - Jogo de luta 2D com personagens customizados.
 - Menu de seleção de personagens.
 - Sistema de eventos para detecção de teclas e ações no jogo.
@@ -22,6 +22,26 @@
 ![Jogo](https://github.com/gg-gustavo/Trabalhos_Faculdade/blob/main/Prog2Fighters/capturas/luta.png)
 *Cena de luta entre personagens.*
 
+## 🎮 Controles
+
+### Jogador 1
+- **WASD**: Movimenta o personagem
+- **U**: Soco
+- **I**: Chute
+- **O**: Defende
+
+### Jogador 2
+- **Setas**: Movimenta o personagem
+- **B**: Soco
+- **N**: Chute
+- **M**: Defende
+
+### Menus
+- Use as **setas** para navegar nos menus.
+- **Enter** para selecionar.
+- **Esc** para voltar à tela anterior.
+
+> **Dica**: Os ataques são separados para membros superiores (soco) e inferiores (chute).
 
 ## 🚀 Como Baixar e Executar
 
@@ -34,20 +54,16 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/gg-gustavo/Trabalhos_Faculdade/tree/main/Prog2Fighters.git
-
+   git clone https://github.com/gg-gustavo/Trabalhos_Faculdade
 2. Acesse o diretório do projeto:
    ```bash
    cd prog2-fighters
-
 3. Compile o jogo usando o Makefile:
    ```bash
    make
-
 4. Execute o jogo:
    ```bash
    ./prog2_fighters
-
 ## 📚 O que Eu Aprendi
 
 Este projeto foi uma ótima oportunidade para aprender sobre:
