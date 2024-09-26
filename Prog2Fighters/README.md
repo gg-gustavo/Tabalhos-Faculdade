@@ -55,6 +55,10 @@
 1. Clone este repositório:
    ```bash
    git clone https://github.com/gg-gustavo/Trabalhos_Faculdade
+<<<<<<< HEAD
+=======
+
+>>>>>>> 624786908b6437aeaff24e05f83f9c634f75e577
 2. Acesse o diretório do projeto:
    ```bash
    cd prog2-fighters
