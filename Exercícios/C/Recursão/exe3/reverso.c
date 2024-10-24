@@ -16,17 +16,24 @@ int troca_elems(int *vetor, int a, int b){
 }
 
 int main(void){
-    int i, vet[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-    printf("Antes: ");
-    for(i = 0; i < 10; i++){
-        printf("%d ", vet[i]);
+    int tam, i; 
+
+    printf("Qual o tamanho do seu vetor?\n");
+    scanf("%d", &tam);
+    int vet[tam];
+    printf("Digite o seu vetor:\n");
+
+    for(i = 0; i < tam; i++){
+        scanf("%d", &vet[i]);
     }
 
-    troca_elems(vet, 0, 9);
+    troca_elems(vet, 0, tam -1); // c, os indices são indexados de [0..n]
 
-    printf("\nDepois: ");
-    for(i = 0; i < 10; i++){
+    printf("Vetor invertido:\n");
+    for(i = 0; i < tam; i++){
         printf("%d ", vet[i]);
     }
+    printf("\n");
+
     return 0;
 }
